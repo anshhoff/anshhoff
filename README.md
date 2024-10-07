@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SWIFT UI**
 
-- 📫 How to reach me **anshconnects@gmail.com**
+- 📫 How to reach me **ansh.iiit2027@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
