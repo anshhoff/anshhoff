@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Hardaha</h1>
-<h3 align="center">Welcome aboard on my journey to iOS DEV  </h3>
+<h3 align="center">Welcome aboard on my journey to app development </h3>
 
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--EIY4OOcE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/dwyukhq8yj2xliq4i50e.gif">
 
