@@ -6,7 +6,7 @@
   # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" /> Ansh Hardaha
   
   <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F74C4C&center=true&width=435&lines=iOS+Developer;App+Enthusiast;GDG+Core+Member" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F74C4C&center=true&width=435&lines=App+Developer;App+Enthusiast;GDG+Core+Member" alt="Typing SVG" /></a>
   </p>
   
   <a href="https://www.linkedin.com/in/ansh-hardaha">
