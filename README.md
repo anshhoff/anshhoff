@@ -1,102 +1,82 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=4EFDED&center=true&center=true&width=500&lines=Hi+I'm+Ansh+Hardaha;Passionate+iOS+App+Developer;Building+Real-time+%7C+Scalable+Apps" />
+<a href="https://anshh.live">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <img alt="Ansh Hardaha: I build LLM agents that real customers talk to" src="./assets/hero-light.svg" width="100%">
+  </picture>
+</a>
 
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-f29227069337.gif" width="120" />
-  
-  # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" /> Ansh Hardaha
-  
-  <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F74C4C&center=true&width=435&lines=App+Developer;App+Enthusiast;GDG+Core+Member" alt="Typing SVG" /></a>
-  </p>
-  
-  <a href="https://www.linkedin.com/in/ansh-hardaha">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/anshhoff">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:anshh.iiit2027@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://anshh.live"><img src="https://img.shields.io/badge/anshh.live-0d1117?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/ansh-hardaha"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"></a>
+  <a href="mailto:ansh.iiit2027@gmail.com"><img src="https://img.shields.io/badge/ansh.iiit2027@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=f472b6" alt="Email"></a>
+  <a href="https://x.com/anshhoff"><img src="https://img.shields.io/badge/@anshhoff-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3" alt="X"></a>
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Voice+agents+that+answer+real+phone+calls;WhatsApp+agents+that+take+bookings+and+payments;Reliability+in+code%2C+not+in+the+prompt;Open+to+AI+%2F+FDE+%2F+full-stack+roles+%E2%80%94+can+join+now" alt="What I do">
+</p>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-80e5e7d86b51.png" width="30" /> About Me
+### `$ whoami`
 
-```swift
-struct AnshHardaha {
-    let location = "Madhya Pradesh, India 🇮🇳"
-    let education = "IIIT Dharwad (2023–2027)"
-    let role = "Google Developer Group Core Member"
-    let focus = "Clean, scalable & real-time iOS apps"
-    let passions = ["Music", "Tech Exploration", "Self-Growth"]
-    
-    func greet() -> String {
-        return "Thanks for visiting my profile! Let's connect and build together!"
-    }
-}
+- 🎓 B.Tech Computer Science at **IIIT Dharwad**, graduating May 2027. Based in Jabalpur, India. Can join immediately, and happy to relocate.
+- 🤖 I build LLM agents for production: tool calling, RAG, voice, and the tests and guardrails that make them safe to ship.
+- 🧪 I test agents like software: scripted-caller harnesses, Vitest and Pytest suites, Playwright end-to-end runs.
+- 📫 Open to **AI engineer, forward-deployed engineer and full-stack** roles (internship or new grad). Visa sponsorship needed outside India.
 
-```
+### `$ ls ~/work`
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="30" /> Tech Stack
+<a href="https://hobbyfi.in">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/work-hobbyfi-dark.svg">
+    <img alt="HobbyFi: AI / Full-Stack Intern. WhatsApp AI receptionist and voice agent." src="./assets/work-hobbyfi-light.svg" width="100%">
+  </picture>
+</a>
+<a href="https://askburrito.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/work-burrito-dark.svg">
+    <img alt="Burrito AI: Founding Engineer. Multi-tenant AI content SaaS." src="./assets/work-burrito-light.svg" width="100%">
+  </picture>
+</a>
 
-<table align="center" border="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3 align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30">
-        Languages & Frameworks
-      </h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-        <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-        <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3 align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="30">  
-        Tools & Platforms
-      </h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
-        <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" alt="CocoaPods" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-      </p>
-    </td>
-  </tr>
-</table>
+### `$ ls ~/projects`
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30" /> GitHub Stats
+<p>
+<a href="https://github.com/anshhoff/canapply"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/proj-canapply-dark.svg"><img alt="CanApply: job search that only shows jobs you can actually get" src="./assets/proj-canapply-light.svg" width="49%"></picture></a>
+<a href="https://github.com/anshhoff/sahara"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/proj-sahara-dark.svg"><img alt="Sahara: failed-payment recovery agent" src="./assets/proj-sahara-light.svg" width="49%"></picture></a>
+<a href="https://github.com/anshhoff/pixel-agents"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/proj-pixelagents-dark.svg"><img alt="Pixel Agents: remote agent dashboard" src="./assets/proj-pixelagents-light.svg" width="49%"></picture></a>
+<a href="https://github.com/anshhoff/FitForm"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/proj-fitform-dark.svg"><img alt="FitForm: real-time squat form checker for iOS" src="./assets/proj-fitform-light.svg" width="49%"></picture></a>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=anshhoff&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshhoff&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshhoff&theme=tokyonight&hide_border=true&layout=compact" width="38%">
+### `$ cat stack.txt`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,py,js,java,cpp,swift&perline=12" alt="Languages"><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,fastapi,supabase,postgres,firebase,docker,githubactions&perline=12" alt="Backend and tools"><br>
+  <img src="https://skillicons.dev/icons?i=flutter,vercel,gcp,git,vscode,xcode&perline=12" alt="Platforms">
+</p>
+
+<p align="center">
+  <b>AI:</b> Gemini (Vertex AI, Live API) · LiveKit Agents · Mastra · Vercel AI SDK · Qdrant · pgvector · tool calling · RAG · provider failover
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=anshhoff&theme=discord&no-frame=true&no-bg=true&margin-w=4" width="78%">
-</div>
+  <b>Testing:</b> Vitest · Pytest · Playwright
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+### `$ git log --stat`
 
-## <img src="https://user-images.githubusercontent.com/74038190/216125640-2b99efd0-09d1-4fb7-8f24-6d4f7f33ee1f.png" width="30" /> Let's Connect & Build Together!
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshhoff/anshhoff/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/anshhoff/anshhoff/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-b5ea-c013d2a4eb3f.gif" width="300">
-  <p>
-    <b>Always open for collaboration, discussions & building something cool.</b><br>
-    Feel free to drop a message on LinkedIn or GitHub!
-  </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=anshhoff&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=anshhoff&theme=tokyonight&hide_border=true&background=0D111700&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=anshhoff&hide_border=true&background=FFFFFF00&ring=7C3AED&fire=DB2777&currStreakLabel=0891B2" width="60%">
+  </picture>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+<p align="center">
+  <sub>Also: GDG IIIT Dharwad app-dev core member (mentored 5 juniors, ran workshops for 30+ students) · Razorpay AI Buildathon 2026</sub>
+</p>

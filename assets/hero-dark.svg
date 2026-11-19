@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Ansh Hardaha, AI engineer who builds production LLM agents">
+<title>Ansh Hardaha, AI engineer</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="2" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/><animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="8s" repeatCount="indefinite"/></linearGradient>
+<radialGradient id="o1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.35"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<radialGradient id="o2"><stop offset="0" stop-color="#f472b6" stop-opacity="0.35"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#30363d" stroke-opacity=".45" stroke-width="1"/></pattern>
+<clipPath id="r"><rect width="1200" height="420" rx="20"/></clipPath>
+<style>
+.t{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:15px;}
+.l{opacity:0;clip-path:inset(0 100% 0 0);}
+.cur{animation:blink 1s steps(1) infinite;}
+@keyframes blink{50%{opacity:0}}
+.orb{animation:float 9s ease-in-out infinite;}
+.orb2{animation:float 11s ease-in-out infinite reverse;}
+@keyframes float{0%,100%{transform:translate(0,0)}50%{transform:translate(30px,-18px)}}
+.chip{opacity:0;animation:pop .6s ease-out forwards;}
+@keyframes pop{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.fade{opacity:0;animation:pop .9s ease-out forwards;}
+@keyframes k0{0%,0.00%{opacity:0;clip-path:inset(0 100% 0 0)}0.01%{opacity:1}5.62%{clip-path:inset(0 0 0 0);opacity:1}94%{opacity:1;clip-path:inset(0 0 0 0)}98%,100%{opacity:0;clip-path:inset(0 0 0 0)}}.l0{animation:k0 16.0s steps(28,end) infinite;}@keyframes k1{0%,9.38%{opacity:0;clip-path:inset(0 100% 0 0)}9.38%{opacity:1}15.00%{clip-path:inset(0 0 0 0);opacity:1}94%{opacity:1;clip-path:inset(0 0 0 0)}98%,100%{opacity:0;clip-path:inset(0 0 0 0)}}.l1{animation:k1 16.0s steps(28,end) infinite;}@keyframes k2{0%,18.75%{opacity:0;clip-path:inset(0 100% 0 0)}18.76%{opacity:1}24.38%{clip-path:inset(0 0 0 0);opacity:1}94%{opacity:1;clip-path:inset(0 0 0 0)}98%,100%{opacity:0;clip-path:inset(0 0 0 0)}}.l2{animation:k2 16.0s steps(28,end) infinite;}@keyframes k3{0%,28.12%{opacity:0;clip-path:inset(0 100% 0 0)}28.14%{opacity:1}33.75%{clip-path:inset(0 0 0 0);opacity:1}94%{opacity:1;clip-path:inset(0 0 0 0)}98%,100%{opacity:0;clip-path:inset(0 0 0 0)}}.l3{animation:k3 16.0s steps(28,end) infinite;}@keyframes k4{0%,37.50%{opacity:0;clip-path:inset(0 100% 0 0)}37.51%{opacity:1}43.12%{clip-path:inset(0 0 0 0);opacity:1}94%{opacity:1;clip-path:inset(0 0 0 0)}98%,100%{opacity:0;clip-path:inset(0 0 0 0)}}.l4{animation:k4 16.0s steps(28,end) infinite;}@keyframes k5{0%,46.88%{opacity:0;clip-path:inset(0 100% 0 0)}46.88%{opacity:1}52.50%{clip-path:inset(0 0 0 0);opacity:1}94%{opacity:1;clip-path:inset(0 0 0 0)}98%,100%{opacity:0;clip-path:inset(0 0 0 0)}}.l5{animation:k5 16.0s steps(28,end) infinite;}@keyframes k6{0%,56.25%{opacity:0;clip-path:inset(0 100% 0 0)}56.26%{opacity:1}61.88%{clip-path:inset(0 0 0 0);opacity:1}94%{opacity:1;clip-path:inset(0 0 0 0)}98%,100%{opacity:0;clip-path:inset(0 0 0 0)}}.l6{animation:k6 16.0s steps(28,end) infinite;}</style></defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="420" fill="#0d1117"/>
+<rect width="1200" height="420" fill="url(#grid)"/>
+<circle class="orb" cx="220" cy="80" r="260" fill="url(#o1)"/>
+<circle class="orb2" cx="1050" cy="380" r="280" fill="url(#o2)"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="419" rx="20" fill="none" stroke="#30363d"/>
+<g class="fade" style="animation-delay:.1s"><text x="64" y="118" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#8b949e">hi, i’m</text></g>
+<g class="fade" style="animation-delay:.3s"><text x="60" y="184" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="800" fill="url(#g)" letter-spacing="-1.5">Ansh Hardaha</text></g>
+<g class="fade" style="animation-delay:.55s">
+<text x="64" y="228" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" fill="#e6edf3">I build LLM agents that real customers talk to,</text>
+<text x="64" y="258" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" fill="#e6edf3">and make them fast and reliable enough to trust.</text></g>
+<g transform="translate(64,300)"><g class="chip" style="animation-delay:0.90s"><rect width="141" height="32" rx="16" fill="#1f2630" stroke="#30363d"/><text x="70" y="21" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e6edf3">Voice AI agents</text></g></g><g transform="translate(215,300)"><g class="chip" style="animation-delay:1.05s"><rect width="157" height="32" rx="16" fill="#1f2630" stroke="#30363d"/><text x="79" y="21" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e6edf3">Tool-calling LLMs</text></g></g><g transform="translate(382,300)"><g class="chip" style="animation-delay:1.20s"><rect width="100" height="32" rx="16" fill="#1f2630" stroke="#30363d"/><text x="50" y="21" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e6edf3">Full-stack</text></g></g><g transform="translate(492,300)"><g class="chip" style="animation-delay:1.35s"><rect width="149" height="32" rx="16" fill="#1f2630" stroke="#30363d"/><text x="75" y="21" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e6edf3">IIIT Dharwad ’27</text></g></g>
+<g transform="translate(640,70)"><g class="fade" style="animation-delay:.4s">
+<rect width="520" height="290" rx="14" fill="#0b0f14" stroke="#30363d"/>
+<circle cx="22" cy="22" r="6" fill="#ff5f57"/><circle cx="42" cy="22" r="6" fill="#febc2e"/><circle cx="62" cy="22" r="6" fill="#28c840"/>
+<text x="260.0" y="27" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">agent-trace — voice receptionist</text>
+<line x1="0" y1="44" x2="520" y2="44" stroke="#30363d"/>
+<g transform="translate(22,78)"><text class="t l l0" x="0" y="0" fill="#8b949e">$ agent.run  channel=voice  lang=hi-en</text><text class="t l l1" x="0" y="30" fill="#e6edf3">caller  › “Kal shaam 6 baje slot free hai?”</text><text class="t l l2" x="0" y="60" fill="#a78bfa">  ↳ tool  check_availability(tomorrow, 18:00)</text><text class="t l l3" x="0" y="90" fill="#a78bfa">  ↳ tool  create_booking()   consent ✓</text><text class="t l l4" x="0" y="120" fill="#3fb950">✓ silent caller released   ~1 s   (was 5–9 s)</text><text class="t l l5" x="0" y="150" fill="#3fb950">✓ dead model session ends  ~1 s   (was ~28 s)</text><text class="t l l6" x="0" y="180" fill="#3fb950">✓ en→hi→en switch failures  6 → 0</text>
+<rect class="cur" x="0" y="196" width="9" height="18" fill="#22d3ee"/></g>
+</g></g>
+</svg>
