@@ -9,6 +9,11 @@
   <a href="https://x.com/anshhoff"><b>X</b></a>
 </p>
 
+<p align="center">
+  <b>New:</b> <a href="https://anshhoff.github.io/string-theory/"><b>String Theory</b></a>, an instrument you play in the air. Pinch to stretch a glowing string, strum to play it; hand tracking runs in the browser.<br>
+  TypeScript · MediaPipe · Web Audio · WebRTC &nbsp;·&nbsp; <a href="https://anshhoff.github.io/string-theory/">Play it</a> &nbsp;·&nbsp; <a href="https://github.com/anshhoff/string-theory">Code</a>
+</p>
+
 <br>
 
 <p align="center">
